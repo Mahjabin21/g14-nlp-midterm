@@ -1,0 +1,8 @@
+﻿Feature,Model,C,Accuracy,Validation_Macro_F1
+BoW Unigram,Logistic Regression,5.0,0.9462102689486552,0.9431339819954886
+BoW Unigram,Linear SVM,0.1,0.9437652811735942,0.9396763911833178
+BoW Unigram,Logistic Regression,0.1,0.941320293398533,0.9378252099689841
+TF-IDF Unigram,Linear SVM,2.0,0.941320293398533,0.9374578983758934
+TF-IDF Unigram,Logistic Regression,2.0,0.941320293398533,0.9370545793404558
+Average Word2Vec,Linear SVM,,0.8093,0.8245
+Average Word2Vec,Logistic Regression,,0.7482,0.7701

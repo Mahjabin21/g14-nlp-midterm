@@ -1,0 +1,7 @@
+﻿Actual Label,mobile_money,bank_service,telecom_sim_pack,security_otp,complaint_helpline,generic_dialogue
+mobile_money,71,2,0,2,0,2
+bank_service,0,46,0,0,0,0
+telecom_sim_pack,0,0,77,0,0,0
+security_otp,0,1,0,85,0,0
+complaint_helpline,0,0,0,0,55,2
+generic_dialogue,1,0,1,0,3,55

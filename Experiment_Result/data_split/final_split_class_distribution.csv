@@ -1,0 +1,4 @@
+﻿split,bank_service,complaint_helpline,generic_dialogue,mobile_money,security_otp,telecom_sim_pack
+test,37,70,59,60,106,66
+train,238,215,283,386,410,343
+validation,36,92,55,66,58,102

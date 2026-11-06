@@ -1,0 +1,5 @@
+﻿Configuration,Accuracy,Validation_Macro_F1
+config_A,0.7653,0.778
+config_B,0.7726,0.7751
+config_C,0.7653,0.7812
+config_D,0.7751,0.7787

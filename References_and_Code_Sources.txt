@@ -1,0 +1,64 @@
+References and Code Sources
+
+Dataset
+
+-   kawshikbuet17/bengali-telecom-customer-care-speech, Hugging Face
+    Datasets. Dataset source used for the Bangla customer-care
+    utterances. Dataset license is reported in the project materials as
+    CC BY 4.0. Verify the dataset card and preserve its attribution
+    requirements in the final paper.
+    -   https://huggingface.co/datasets/kawshikbuet17/bengali-telecom-customer-care-speech
+
+Software libraries and documentation
+
+List only the libraries actually used in the final notebook. The
+following documentation pages are relevant to the described
+implementation; confirm each is used before retaining it in the
+submitted reference list.
+
+-   pandas documentation: https://pandas.pydata.org/docs/
+-   NumPy documentation: https://numpy.org/doc/
+-   Matplotlib documentation: https://matplotlib.org/stable/
+-   scikit-learn documentation: https://scikit-learn.org/stable/
+    -   CountVectorizer:
+        https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html
+    -   TfidfVectorizer:
+        https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html
+    -   LogisticRegression:
+        https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
+    -   LinearSVC:
+        https://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html
+    -   MultinomialNB:
+        https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+    -   GroupKFold / StratifiedGroupKFold:
+        https://scikit-learn.org/stable/modules/cross_validation.html
+    -   Cohen’s Kappa:
+        https://scikit-learn.org/stable/modules/model_evaluation.html#cohen-kappa
+-   Gensim Word2Vec documentation:
+    https://radimrehurek.com/gensim/models/word2vec.html
+
+External code and tutorial attribution
+
+The project team must add a specific citation or URL for every code
+snippet, tutorial, GitHub repository, Kaggle notebook or other external
+source whose code was copied or adapted. Add the relevant source next to
+the corresponding code cell as a comment and cite it in the report.
+
+No specific third-party tutorial or copied code repository has been
+identified in the information available for preparing this file. Do not
+imply that the listed official documentation pages supplied copied code.
+If no external code was copied, state that clearly only after all group
+members have checked.
+
+Citation and reproducibility checklist
+
+1.  Verify the dataset name, creator, version/release (if available),
+    license and access date from its dataset card.
+2.  Keep references only for tools and methods actually used.
+3.  Cite original research papers for key methods where required by the
+    instructor (for example, TF-IDF, Naive Bayes, logistic regression,
+    SVM, Word2Vec and Cohen’s Kappa).
+4.  Record software versions from the final notebook environment if
+    reproducibility requires them.
+5.  Ensure every figure, table and reported metric can be regenerated
+    from the submitted notebook and supplied data.

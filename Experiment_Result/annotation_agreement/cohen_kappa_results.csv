@@ -1,0 +1,4 @@
+﻿Annotator Pair,Matched Sentences,Raw Agreement (%),Cohen's Kappa
+M1 vs M2,67,86.57,0.835
+M1 vs M3,67,92.54,0.909
+M2 vs M3,67,97.01,0.9635

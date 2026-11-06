@@ -1,0 +1,120 @@
+﻿sentence_id,issue,sentence,old_label,new_label,source,changed
+S0815,A1 greeting labelled as a topic,"ধন্যবাদ, হাসিমুখে সেবা দেওয়ার জন্য আমরা আছি, আপনার সমস্যাটি বলুন!",telecom_sim_pack,generic_dialogue,suggestion accepted (Agree left blank),True
+S0233,A1 greeting labelled as a topic,"চিন্তা করবেন না, হাসিমুখে সেবা দেওয়ার জন্য আমরা আছি, আপনার সমস্যাটি বলুন!",telecom_sim_pack,generic_dialogue,suggestion accepted (Agree left blank),True
+S0283,A1 greeting labelled as a topic,"আপনার তথ্যের জন্য ধন্যবাদ, হাসিমুখে সেবা দেওয়ার জন্য আমরা আছি, আপনার সমস্যাটি বলুন!",telecom_sim_pack,generic_dialogue,suggestion accepted (Agree left blank),True
+S0475,A2 internet / data mentioned,"দুঃখিত, ইন্টারনেট ধীর হলে আপনি কি ডাটা ব্যালেন্স এবং মেয়াদ দুটোই দেখেছেন?",generic_dialogue,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0539,A2 internet / data mentioned,"আপনার তথ্যের জন্য ধন্যবাদ, ইন্টারনেট ধীর হলে আপনি কি ডাটা ব্যালেন্স এবং মেয়াদ দুটোই দেখেছেন?",generic_dialogue,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0457,A2 internet / data mentioned,ইন্টারনেট ধীর হলে আপনি কি ডাটা ব্যালেন্স এবং মেয়াদ দুটোই দেখেছেন?,generic_dialogue,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0394,A2 internet / data mentioned,"জানানোর জন্য ধন্যবাদ, ইন্টারনেট ধীর হলে আপনি কি ডাটা ব্যালেন্স এবং মেয়াদ দুটোই দেখেছেন?",generic_dialogue,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0609,A3 pack mentioned,"ঠিক আছে, আপনার প্যাক সফল হয়েছে!",generic_dialogue,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0582,A3 pack mentioned,"ধন্যবাদ, আপনার প্যাক সফল হয়েছে!",generic_dialogue,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0476,A3 pack mentioned,"বুঝতে পারছি, আপনার প্যাক কেনার পরে কি কনফার্মেশন এসএমএস এসেছে?",generic_dialogue,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0223,A3 pack mentioned,আপনার প্যাক সফল হয়েছে!,generic_dialogue,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0938,A4 wrong-number money,"দুঃখিত, ভুল নম্বরে টাকা গেলে দ্রুত যোগাযোগ করলে সমাধানের সুযোগ বেশি থাকে।",generic_dialogue,mobile_money,suggestion accepted (Agree left blank),True
+S0564,A4 wrong-number money,"বুঝতে পারছি, ভুল নম্বরে টাকা গেলে দ্রুত যোগাযোগ করলে সমাধানের সুযোগ বেশি থাকে।",generic_dialogue,mobile_money,suggestion accepted (Agree left blank),True
+S0067,A5 agent number and receipt,"ধন্যবাদ, এজেন্ট নম্বরটি নিশ্চিত করতে চাইলে রসিদে থাকা নম্বর মিলিয়ে দেখুন।",generic_dialogue,mobile_money,suggestion accepted (Agree left blank),True
+S0244,A5 agent number and receipt,"বুঝতে পারছি, এজেন্ট নম্বরটি নিশ্চিত করতে চাইলে রসিদে থাকা নম্বর মিলিয়ে দেখুন।",generic_dialogue,mobile_money,suggestion accepted (Agree left blank),True
+S0148,A6 branch change,"জানানোর জন্য ধন্যবাদ, শাখা পরিবর্তনের আবেদন গ্রহণ করা হয়েছে।",generic_dialogue,bank_service,suggestion accepted (Agree left blank),True
+S0257,A6 branch change,"বুঝতে পারছি, শাখা পরিবর্তনের আবেদন গ্রহণ করা হয়েছে।",generic_dialogue,bank_service,suggestion accepted (Agree left blank),True
+S0228,A7 complaint process,"আপনার তথ্যের জন্য ধন্যবাদ, আপনি কি আগে এই একই সমস্যার জন্য অভিযোগ করেছিলেন?",generic_dialogue,complaint_helpline,suggestion accepted (Agree left blank),True
+S0335,A7 complaint process,অভিযোগ জমা দেওয়ার পরে সাধারণত যাচাই দল তথ্য মিলিয়ে দেখে।,generic_dialogue,complaint_helpline,suggestion accepted (Agree left blank),True
+S0704,A7 complaint process,"বুঝতে পারছি, অভিযোগ জমা দেওয়ার পরে সাধারণত যাচাই দল তথ্য মিলিয়ে দেখে।",generic_dialogue,complaint_helpline,suggestion accepted (Agree left blank),True
+S0828,A7 complaint process,আপনি কি আগে এই একই সমস্যার জন্য অভিযোগ করেছিলেন?,generic_dialogue,complaint_helpline,suggestion accepted (Agree left blank),True
+S0319,A8 PIN/OTP warning from customer care,"কাস্টমার কেয়ার কখনো পিন, পাসওয়ার্ড, বা ওটিপি জানতে চায় না।",complaint_helpline,security_otp,suggestion accepted (Agree left blank),True
+S0638,A8 PIN/OTP warning from customer care,"দুঃখিত, কাস্টমার কেয়ার কখনো পিন, পাসওয়ার্ড, বা ওটিপি জানতে চায় না।",complaint_helpline,security_otp,suggestion accepted (Agree left blank),True
+S0949,A8 PIN/OTP warning from customer care,"ধন্যবাদ, কাস্টমার কেয়ার কখনো পিন, পাসওয়ার্ড, বা ওটিপি জানতে চায় না।",complaint_helpline,security_otp,suggestion accepted (Agree left blank),True
+S0824,A9 nominee update,"জানানোর জন্য ধন্যবাদ, আপনি কি নমিনি তথ্য আপডেট করতে চান?",generic_dialogue,bank_service,suggestion accepted (Agree left blank),True
+S0853,A10 SIM replacement slip,"দুঃখিত, আপনার বাংলালিংক সিম রিপ্লেসমেন্টের জন্য জাতীয় পরিচয়পত্র সঙ্গে আনুন।",complaint_helpline,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0372,B1 contact-channel question,"ধন্যবাদ, আপনি কি ই মেইল থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0951,B1 contact-channel question,"বুঝতে পারছি, আপনি কি অ্যাপ থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0572,B1 contact-channel question,"ধন্যবাদ, আপনি কি হেল্পলাইন থেকে আমাদের সাথে যোগাযোগ করছেন?",complaint_helpline,generic_dialogue,suggestion accepted (Agree left blank),True
+S0330,B1 contact-channel question,"আপনার তথ্যের জন্য ধন্যবাদ, আপনি কি এটিএম বুথ থেকে আমাদের সাথে যোগাযোগ করছেন?",bank_service,generic_dialogue,suggestion accepted (Agree left blank),True
+S0225,B1 contact-channel question,"জানানোর জন্য ধন্যবাদ, আপনি কি অ্যাপ থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0943,B1 contact-channel question,"বুঝতে পারছি, আপনি কি ই মেইল থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0260,B1 contact-channel question,"চিন্তা করবেন না, আপনি কি এজেন্ট পয়েন্ট থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,UNRESOLVED: team said bank_service or mobile_money; original kept,False
+S0923,B1 contact-channel question,"জানানোর জন্য ধন্যবাদ, আপনি কি এসএমএস থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0154,B1 contact-channel question,আপনি কি মার্চেন্ট পয়েন্ট থেকে আমাদের সাথে যোগাযোগ করছেন?,mobile_money,mobile_money,UNRESOLVED: team said bank_service or mobile_money; original kept,False
+S0519,B1 contact-channel question,আপনি কি লাইভ চ্যাট থেকে আমাদের সাথে যোগাযোগ করছেন?,generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0443,B1 contact-channel question,"ধন্যবাদ, আপনি কি লাইভ চ্যাট থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0019,B1 contact-channel question,"দুঃখিত, আপনি কি এসএমএস থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0743,B1 contact-channel question,আপনি কি এসএমএস থেকে আমাদের সাথে যোগাযোগ করছেন?,generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0961,B1 contact-channel question,"বুঝতে পারছি, আপনি কি লাইভ চ্যাট থেকে আমাদের সাথে যোগাযোগ করছেন?",generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0809,B1 contact-channel question,আপনি কি ই মেইল থেকে আমাদের সাথে যোগাযোগ করছেন?,generic_dialogue,generic_dialogue,suggestion accepted (Agree left blank),False
+S0605,B2 lost or blocked card/SIM,"ঠিক আছে, কার্ড ব্লক করার আগে কি শেষ লেনদেনটি আপনার নিজের ছিল?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0536,B2 lost or blocked card/SIM,"আপনার তথ্যের জন্য ধন্যবাদ, কার্ড ব্লক করার আগে কি শেষ লেনদেনটি আপনার নিজের ছিল?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0741,B2 lost or blocked card/SIM,আপনার সমস্যা কি কার্ড ব্লক সম্পর্কিত?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0734,B2 lost or blocked card/SIM,"ধন্যবাদ, সিম হারিয়ে গেলে দ্রুত ব্লক করুন, যাতে অন্য কেউ সেবা ব্যবহার করতে না পারে।",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0248,B2 lost or blocked card/SIM,"ঠিক আছে, সিম হারিয়ে গেলে দ্রুত ব্লক করুন, যাতে অন্য কেউ সেবা ব্যবহার করতে না পারে।",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0645,B2 lost or blocked card/SIM,"ঠিক আছে, আপনার কার্ড কি হারিয়ে গেছে, নাকি শুধু ব্লক করতে চান?",bank_service,security_otp,team objection: stated label,True
+S0147,B2 lost or blocked card/SIM,"আপনার তথ্যের জন্য ধন্যবাদ, আপনার কথাটি ঠিকভাবে বুঝেছি কি, কার্ড ব্লক হচ্ছে?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0379,B2 lost or blocked card/SIM,"চিন্তা করবেন না, সিম হারিয়ে গেলে দ্রুত ব্লক করুন, যাতে অন্য কেউ সেবা ব্যবহার করতে না পারে।",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0795,B2 lost or blocked card/SIM,"জানানোর জন্য ধন্যবাদ, কার্ড ব্লক করার আগে কি শেষ লেনদেনটি আপনার নিজের ছিল?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0881,B2 lost or blocked card/SIM,"বুঝতে পারছি, সিম হারিয়ে গেলে দ্রুত ব্লক করুন, যাতে অন্য কেউ সেবা ব্যবহার করতে না পারে।",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0607,B2 lost or blocked card/SIM,"আপনার কথাটি ঠিকভাবে বুঝেছি কি, কার্ড ব্লক হচ্ছে?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0156,B2 lost or blocked card/SIM,কার্ড বা সিম হারানোর ঘটনা হলে দেরি না করে ব্লক অনুরোধ করাই নিরাপদ।,bank_service,security_otp,suggestion accepted (Agree left blank),True
+S0387,B3 identity verification,"ধন্যবাদ, আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি সাদিয়া ইসলাম?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0079,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি জনাব হাসান?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0091,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি তিন আট এক?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0810,B3 identity verification,"বুঝতে পারছি, আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি ম্যাডাম তানিয়া?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0436,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি পাঁচ ছয় শূন্য সাত?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0208,B3 identity verification,"ধন্যবাদ, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি সাত পাঁচ এক এক?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0473,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি রুমানা পারভীন?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0613,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি এক এক চার ছয়?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0892,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি পাঁচ দুই আট?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0484,B3 identity verification,"ধন্যবাদ, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি তিন নয় পাঁচ শূন্য?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0924,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি ইমরান হোসেন?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0685,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি পাঁচ চার তিন এক পাঁচ?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0243,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি এক আট নয় দুই দুই?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0287,B3 identity verification,"আপনার তথ্যের জন্য ধন্যবাদ, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি আট চার সাত নয়?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0914,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি পাঁচ তিন এক সাত নয়?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0947,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি সাদিয়া ইসলাম?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0332,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি নয় সাত নয় এক?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0511,B3 identity verification,"দুঃখিত, এফডিআর মেয়াদপূর্তির তারিখ জানতে চাইলে শাখায় পরিচয় যাচাই করতে হবে।",security_otp,bank_service,suggestion accepted (Agree left blank),True
+S0615,B3 identity verification,"ঠিক আছে, এফডিআর মেয়াদপূর্তির তারিখ জানতে চাইলে শাখায় পরিচয় যাচাই করতে হবে।",security_otp,bank_service,suggestion accepted (Agree left blank),True
+S0188,B3 identity verification,"জানানোর জন্য ধন্যবাদ, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি তিন এক আট?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0880,B3 identity verification,"চিন্তা করবেন না, আপনার রেজিস্ট্রেশন তথ্য অসম্পূর্ণ থাকলে কিছু সেবা বন্ধ থাকতে পারে।",security_otp,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0839,B3 identity verification,"ধন্যবাদ, আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি শারমিন আক্তার?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0075,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি সাত শূন্য পাঁচ?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0639,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি ফারহান আহমেদ?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0863,B3 identity verification,"বুঝতে পারছি, আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি আব্দুল করিম?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0711,B3 identity verification,"ধন্যবাদ, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি সাত ছয় দুই সাত পাঁচ?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0133,B3 identity verification,"চিন্তা করবেন না, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি এক ছয় দুই নয়?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0386,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি চার শূন্য নয় শূন্য?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0742,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি দুই সাত সাত দুই?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0579,B3 identity verification,"ধন্যবাদ, আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি মিস্টার কৌশিক?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0227,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি তিন তিন পাঁচ?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0092,B3 identity verification,এফডিআর মেয়াদপূর্তির তারিখ জানতে চাইলে শাখায় পরিচয় যাচাই করতে হবে।,security_otp,bank_service,suggestion accepted (Agree left blank),True
+S0347,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি তিন এক সাত?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0360,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি সাত এক সাত শূন্য নয়?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0508,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি আট ছয় আট?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0757,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি এক আট দুই আট?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0488,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি মিস্টার কৌশিক?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0758,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি ম্যাডাম তানিয়া?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0759,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি আট চার নয় নয় পাঁচ?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0873,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি এক পাঁচ আট?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0353,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি শূন্য ছয় এক পাঁচ শূন্য?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0787,B3 identity verification,"বুঝতে পারছি, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি ছয় নয় তিন?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0116,B3 identity verification,"ধন্যবাদ, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি নয় এক পাঁচ?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0952,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি দুই সাত চার ছয়?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0442,B3 identity verification,"ধন্যবাদ, আপনার রেজিস্ট্রেশন তথ্য অসম্পূর্ণ থাকলে কিছু সেবা বন্ধ থাকতে পারে।",security_otp,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0439,B3 identity verification,"চিন্তা করবেন না, আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি ম্যাডাম রুবাইয়া?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0408,B3 identity verification,"চিন্তা করবেন না, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি আট চার শূন্য দুই?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0929,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি রাশেদুল ইসলাম?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0231,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি দুই এক আট নয়?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0878,B3 identity verification,"জানানোর জন্য ধন্যবাদ, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি এক সাত চার?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0657,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি তিন সাত এক নয় পাঁচ?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0850,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি ছয় সাত শূন্য দুই নয়?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0200,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি মাহমুদা খাতুন?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0078,B3 identity verification,"দুঃখিত, আপনার রেজিস্ট্রেশন তথ্য অসম্পূর্ণ থাকলে কিছু সেবা বন্ধ থাকতে পারে।",security_otp,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0775,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি পাঁচ সাত শূন্য তিন?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0303,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি ছয় শূন্য শূন্য তিন সাত?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0191,B3 identity verification,আপনার রেজিস্ট্রেশন তথ্য অসম্পূর্ণ থাকলে কিছু সেবা বন্ধ থাকতে পারে।,security_otp,telecom_sim_pack,suggestion accepted (Agree left blank),True
+S0649,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি শূন্য শূন্য নয় তিন?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0708,B3 identity verification,"জানানোর জন্য ধন্যবাদ, সিম নিবন্ধনের তথ্য কি আপনার নামে আছে?",telecom_sim_pack,security_otp,team objection: stated label,True
+S0778,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি এক তিন চার?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0884,B3 identity verification,"ধন্যবাদ, আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি তাসনিম সুলতানা?",security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0919,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি শূন্য দুই দুই তিন সাত?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0535,B3 identity verification,আপনার পরিচয় যাচাইয়ের জন্য নিবন্ধিত নামটি কি জনাব মাহফুজ?,security_otp,security_otp,suggestion accepted (Agree left blank),False
+S0563,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি চার আট চার দুই শূন্য?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0491,B3 identity verification,"ঠিক আছে, আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি শূন্য এক আট এক?",telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
+S0130,B3 identity verification,আপনার নিবন্ধিত মোবাইল নম্বরের শেষ কয়েকটি অঙ্ক কি শূন্য দুই আট শূন্য?,telecom_sim_pack,security_otp,suggestion accepted (Agree left blank),True
