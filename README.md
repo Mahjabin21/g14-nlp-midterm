@@ -58,7 +58,7 @@ This project classifies Bangla telecom and mobile-banking customer-care sentence
 
 ## Team Members
 
-| Member | Name | Student ID |
+| Member | Name |
 |---|---|---|
 | Member 1 | [Maisha Mahjabin] |
 | Member 2 | [Md. Sadat Hossain] |
