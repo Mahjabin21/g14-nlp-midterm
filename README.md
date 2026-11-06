@@ -58,11 +58,11 @@ This project classifies Bangla telecom and mobile-banking customer-care sentence
 
 ## Team Members
 
-| Member | Name |
+| Member | Name 
 |---|---|---|
-| Member 1 | [Maisha Mahjabin] |
-| Member 2 | [Md. Sadat Hossain] |
-| Member 3 | [Mishal] | 
+| Member 1 | [Maisha Mahjabin] 
+| Member 2 | [Md. Sadat Hossain] 
+| Member 3 | [Mishal]  
 
 ## Future Work
 Explore transformer-based models such as BanglaBERT, mBERT, and XLM-R for improved classification performance.
